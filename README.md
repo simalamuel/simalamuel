@@ -3,6 +3,6 @@
 <div align="center">
   <a href="https://github.com/lowserotonin">
   <img align="center" alt="initial-d" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/Wci9oW5MbO6PK/giphy.gif">
-  <img align="center" alt="meandboo-pic" height="200", style="border.radius=50px;" src="https://townsquare.media/site/622/files/2010/06/tenpole.gif">
+  <img align="center" alt="meandboo-pic" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/3Z1kP6uFLMlyfuTA6A/giphy.gif">
   
 </div>
