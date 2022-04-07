@@ -3,6 +3,6 @@
 <div align="center">
   <a href="https://github.com/lowserotonin">
   <img align="center" alt="initial-d" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/Wci9oW5MbO6PK/giphy.gif">
-  <img align="center" alt="akira1" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/3Z1kP6uFLMlyfuTA6A/giphy.gif">
-  <img align="center" alt="akira2" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/3o7qEa2qFRQ1oTPNtu/giphy.gif">
+  <img align="center" alt="gif2" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/3Z1kP6uFLMlyfuTA6A/giphy.gif">
+  <img align="center" alt="gif3" height="200", style="border.radius=50px;" src="https://media.giphy.com/media/wjjvv8CEWSdAcdlgtP/giphy.gif">
 </div>
