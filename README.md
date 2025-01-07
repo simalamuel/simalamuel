@@ -1,4 +1,4 @@
-> I'm a computer science student from Brazil and a cybersecurity enthusiastic. I'm trying to improve my coding ability
+> I'm a computer science student from Brazil and a cybersecurity enthusiastic trying to improve my coding ability
 
 <div align="center">
   <a href="https://github.com/lowserotonin">
