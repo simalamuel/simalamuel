@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samuel Lima Giroldo 👋</h1>
+<h1 align="center">Hi, I'm Samuel Lima 👋</h1>
 
 <h3 align="center">Cybersecurity Professional & Pentester</h3>
 
