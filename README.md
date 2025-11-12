@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Samuel Lima 👋</h1>
 
-<h3 align="center">Cybersecurity Professional & Pentester</h3>
+<h3 align="center">Cybersecurity Consultant & Pentester</h3>
 
 ---
 
 ### 💻 About Me
 
-I'm a cybersecurity professional specializing in **penetration testing** across corporate environments, cloud infrastructure (AWS, Azure), web, and mobile applications.
+Cybersecurity professional and researcher, with multiple published CVEs (CVE-2024-42898, CVE-2025-25535, CVE-2025-29322). My main expertise lies in Offensive Security (Pentesting and AppSec) and Vulnerability Management.
 
-With a strong focus on **ethical hacking**, I have hands-on experience in **social engineering, phishing, and OSINT**. I'm the author of multiple CVEs and proficient with security frameworks like OWASP Top 10 and MITRE ATT&CK.
+I have hands-on experience in security consulting, covering the full risk lifecycle — from the technical identification of vulnerabilities to the design of mitigation strategies. I collaborate closely with Infrastructure, Cloud, and Development teams to implement technical controls and integrate security solutions into their environments.
+
+My work is guided by leading industry frameworks such as OWASP Top 10, MITRE ATT&CK, NIST, and ISO 27001.
 
 ---
 
